@@ -1,0 +1,357 @@
+{"level":"info","message":"Modules ready and launched","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Blocks 1","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Current 0","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Blockchain ready","timestamp":"2019-07-05 11:51:29"}
+{"level":"warn","message":"Peers list is empty","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 719683993723569337L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 5590942544240575366L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 14161838561505322749L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 2293964609779801163L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 2724461264474096474L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 7314444879405012232L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 18027862989537536416L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 149511431321728583L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 12182931087915228710L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 14813132697954230246L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 5725731609831048148L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 14413300266590144658L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 7132533657570267380L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 13750980333987492302L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 7592742892271701181L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 10072971354410632937L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 15399185563020312727L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 13414549311674453649L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 4460282230112138874L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 6289278868838355161L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 16558944395152994689L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 11480779083353124300L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 3026179612643010275L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 17118125613381243608L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 17496787765464665528L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 12084736217834235496L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 9333319370928580482L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 7955064758773434950L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 1714762717339455402L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 9922703406758610919L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 3051346193551882134L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 4636381885822059768L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 15193230873533971622L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 13241516766799719015L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 16276861156283291018L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 11424555284650165074L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 3221090182012218258L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 896907443523523140L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 9798058880326815544L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 15120572120678329947L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 1982682947399313253L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 13688765976256334777L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 11731800471139400518L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 3194475796487781931L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 9991676834064864442L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 4873193257094759693L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 15536827207177865096L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 8165886046272234138L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 12325340106679953821L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 4630687294588933614L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 2502480490592017806L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 1654034800162208703L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 17731649894811525966L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 5638924176717461484L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 5946949855171272396L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 18175732902140419061L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 5671248097748940278L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 16538830710090024174L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 14941096664585456182L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 18312875896568848473L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 12213982333421331426L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 2569812613738304830L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 2278907929586768943L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 5716662238381922086L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 5139976886998697404L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 13365353000994251365L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 8564010342590026773L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 5032012674829277888L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 10717849159655683056L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 459589282859564209L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 17960246558704250788L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 11961755447672625798L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 13815192108658196395L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 1976889550917696556L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 9362208285740961110L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 8426119307204572326L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 15104957088786547081L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 3877155860842361149L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 10535625180462796431L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 14862141341143010333L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 2480479560982538484L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 15015191105633089482L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 8137087674503128211L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 13007244586124476746L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 8285561074421408469L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 10024405119261174996L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 5177145328279559550L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 2483585844934909758L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 11867183230797701027L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 782615892322024465L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 5942706199781916513L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 18236818477903421064L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 17047173986577440748L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 1522300156347348886L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 11043010160980931613L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 5296370656327754971L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 8430142721610975484L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 617840749449687374L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 14267678202788672790L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 16114172581655316076L","timestamp":"2019-07-05 11:51:29"}
+{"level":"info","message":"Forging enabled on account: 14785000583456536533L","timestamp":"2019-07-05 11:51:29"}
+{"level":"error","message":"Failed to get block slot data","timestamp":"2019-07-05 11:51:29","data":"Error: TypeError: ed25519.verify: Signature buffer too small."}
+{"level":"error","message":"Failed to get block slot data","timestamp":"2019-07-05 11:51:30","data":"Error: TypeError: ed25519.verify: Signature buffer too small."}
+{"level":"error","message":"Failed to get block slot data","timestamp":"2019-07-05 11:51:31","data":"Error: TypeError: ed25519.verify: Signature buffer too small."}
+{"level":"error","message":"Failed to get block slot data","timestamp":"2019-07-05 11:51:32","data":"Error: TypeError: ed25519.verify: Signature buffer too small."}
+{"level":"error","message":"Failed to get block slot data","timestamp":"2019-07-05 11:51:33","data":"Error: TypeError: ed25519.verify: Signature buffer too small."}
+{"level":"error","message":"Failed to get block slot data","timestamp":"2019-07-05 11:51:34","data":"Error: TypeError: ed25519.verify: Signature buffer too small."}
+{"level":"error","message":"Failed to get block slot data","timestamp":"2019-07-05 11:51:35","data":"Error: TypeError: ed25519.verify: Signature buffer too small."}
+{"level":"error","message":"Failed to get block slot data","timestamp":"2019-07-05 11:51:36","data":"Error: TypeError: ed25519.verify: Signature buffer too small."}
+{"level":"error","message":"Failed to get block slot data","timestamp":"2019-07-05 11:51:37","data":"Error: TypeError: ed25519.verify: Signature buffer too small."}
+{"level":"error","message":"Failed to get block slot data","timestamp":"2019-07-05 11:51:38","data":"Error: TypeError: ed25519.verify: Signature buffer too small."}
+{"level":"error","message":"Failed to get block slot data","timestamp":"2019-07-05 11:51:39","data":"Error: TypeError: ed25519.verify: Signature buffer too small."}
+{"level":"error","message":"Failed to get block slot data","timestamp":"2019-07-05 11:51:40","data":"Error: TypeError: ed25519.verify: Signature buffer too small."}
+{"level":"error","message":"Failed to get block slot data","timestamp":"2019-07-05 11:51:41","data":"Error: TypeError: ed25519.verify: Signature buffer too small."}
+{"level":"error","message":"Failed to get block slot data","timestamp":"2019-07-05 11:51:42","data":"Error: TypeError: ed25519.verify: Signature buffer too small."}
+{"level":"error","message":"Failed to get block slot data","timestamp":"2019-07-05 11:51:43","data":"Error: TypeError: ed25519.verify: Signature buffer too small."}
+{"level":"error","message":"Failed to get block slot data","timestamp":"2019-07-05 11:51:44","data":"Error: TypeError: ed25519.verify: Signature buffer too small."}
+{"level":"error","message":"Failed to get block slot data","timestamp":"2019-07-05 11:51:45","data":"Error: TypeError: ed25519.verify: Signature buffer too small."}
+{"level":"error","message":"Failed to get block slot data","timestamp":"2019-07-05 11:51:46","data":"Error: TypeError: ed25519.verify: Signature buffer too small."}
+{"level":"error","message":"Failed to get block slot data","timestamp":"2019-07-05 11:51:47","data":"Error: TypeError: ed25519.verify: Signature buffer too small."}
+{"level":"error","message":"Failed to get block slot data","timestamp":"2019-07-05 11:51:48","data":"Error: TypeError: ed25519.verify: Signature buffer too small."}
+{"level":"info","message":"Cleaning up...","timestamp":"2019-07-05 11:51:49"}
+{"level":"error","message":"Failed to get block slot data","timestamp":"2019-07-05 11:51:49","data":"Blockchain is loading"}
+{"level":"info","message":"Modules ready and launched","timestamp":"2019-07-05 18:36:31"}
+{"level":"info","message":"Blocks 1","timestamp":"2019-07-05 18:36:31"}
+{"level":"info","message":"Current 0","timestamp":"2019-07-05 18:36:31"}
+{"level":"info","message":"Blockchain ready","timestamp":"2019-07-05 18:36:32"}
+{"level":"warn","message":"Peers list is empty","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 719683993723569337L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 5590942544240575366L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 14161838561505322749L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 2293964609779801163L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 2724461264474096474L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 7314444879405012232L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 18027862989537536416L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 149511431321728583L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 12182931087915228710L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 14813132697954230246L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 5725731609831048148L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 14413300266590144658L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 7132533657570267380L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 13750980333987492302L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 7592742892271701181L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 10072971354410632937L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 15399185563020312727L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 13414549311674453649L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 4460282230112138874L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 6289278868838355161L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 16558944395152994689L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 11480779083353124300L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 3026179612643010275L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 17118125613381243608L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 17496787765464665528L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 12084736217834235496L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 9333319370928580482L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 7955064758773434950L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 1714762717339455402L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 9922703406758610919L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 3051346193551882134L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 4636381885822059768L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 15193230873533971622L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 13241516766799719015L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 16276861156283291018L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 11424555284650165074L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 3221090182012218258L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 896907443523523140L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 9798058880326815544L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 15120572120678329947L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 1982682947399313253L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 13688765976256334777L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 11731800471139400518L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 3194475796487781931L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 9991676834064864442L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 4873193257094759693L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 15536827207177865096L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 8165886046272234138L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 12325340106679953821L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 4630687294588933614L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 2502480490592017806L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 1654034800162208703L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 17731649894811525966L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 5638924176717461484L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 5946949855171272396L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 18175732902140419061L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 5671248097748940278L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 16538830710090024174L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 14941096664585456182L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 18312875896568848473L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 12213982333421331426L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 2569812613738304830L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 2278907929586768943L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 5716662238381922086L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 5139976886998697404L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 13365353000994251365L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 8564010342590026773L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 5032012674829277888L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 10717849159655683056L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 459589282859564209L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 17960246558704250788L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 11961755447672625798L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 13815192108658196395L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 1976889550917696556L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 9362208285740961110L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 8426119307204572326L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 15104957088786547081L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 3877155860842361149L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 10535625180462796431L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 14862141341143010333L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 2480479560982538484L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 15015191105633089482L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 8137087674503128211L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 13007244586124476746L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 8285561074421408469L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 10024405119261174996L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 5177145328279559550L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 2483585844934909758L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 11867183230797701027L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 782615892322024465L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 5942706199781916513L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 18236818477903421064L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 17047173986577440748L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 1522300156347348886L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 11043010160980931613L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 5296370656327754971L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 8430142721610975484L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 617840749449687374L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 14267678202788672790L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 16114172581655316076L","timestamp":"2019-07-05 18:36:32"}
+{"level":"info","message":"Forging enabled on account: 14785000583456536533L","timestamp":"2019-07-05 18:36:32"}
+{"level":"error","message":"Failed to get block slot data","timestamp":"2019-07-05 18:36:32","data":"Error: TypeError: ed25519.verify: Signature buffer too small."}
+{"level":"error","message":"Failed to get block slot data","timestamp":"2019-07-05 18:36:33","data":"Error: TypeError: ed25519.verify: Signature buffer too small."}
+{"level":"error","message":"Failed to get block slot data","timestamp":"2019-07-05 18:36:34","data":"Error: TypeError: ed25519.verify: Signature buffer too small."}
+{"level":"error","message":"Failed to get block slot data","timestamp":"2019-07-05 18:36:35","data":"Error: TypeError: ed25519.verify: Signature buffer too small."}
+{"level":"error","message":"Failed to get block slot data","timestamp":"2019-07-05 18:36:36","data":"Error: TypeError: ed25519.verify: Signature buffer too small."}
+{"level":"error","message":"Failed to get block slot data","timestamp":"2019-07-05 18:36:37","data":"Error: TypeError: ed25519.verify: Signature buffer too small."}
+{"level":"error","message":"Failed to get block slot data","timestamp":"2019-07-05 18:36:38","data":"Error: TypeError: ed25519.verify: Signature buffer too small."}
+{"level":"error","message":"Failed to get block slot data","timestamp":"2019-07-05 18:36:39","data":"Error: TypeError: ed25519.verify: Signature buffer too small."}
+{"level":"info","message":"Cleaning up...","timestamp":"2019-07-05 18:36:40"}
+{"level":"error","message":"Failed to get block slot data","timestamp":"2019-07-05 18:36:40","data":"Blockchain is loading"}
+{"level":"error","message":"Failed to get block slot data","timestamp":"2019-07-05 18:36:41","data":"Blockchain is loading"}
+{"level":"info","message":"Modules ready and launched","timestamp":"2019-07-09 12:13:07"}
+{"level":"info","message":"Blocks 1","timestamp":"2019-07-09 12:13:07"}
+{"level":"info","message":"Current 0","timestamp":"2019-07-09 12:13:07"}
+{"level":"info","message":"Blockchain ready","timestamp":"2019-07-09 12:13:07"}
+{"level":"warn","message":"Peers list is empty","timestamp":"2019-07-09 12:13:07"}
+{"level":"info","message":"Forging enabled on account: 719683993723569337L","timestamp":"2019-07-09 12:13:07"}
+{"level":"info","message":"Forging enabled on account: 5590942544240575366L","timestamp":"2019-07-09 12:13:07"}
+{"level":"info","message":"Forging enabled on account: 14161838561505322749L","timestamp":"2019-07-09 12:13:07"}
+{"level":"info","message":"Forging enabled on account: 2293964609779801163L","timestamp":"2019-07-09 12:13:07"}
+{"level":"info","message":"Forging enabled on account: 2724461264474096474L","timestamp":"2019-07-09 12:13:07"}
+{"level":"info","message":"Forging enabled on account: 7314444879405012232L","timestamp":"2019-07-09 12:13:07"}
+{"level":"info","message":"Forging enabled on account: 18027862989537536416L","timestamp":"2019-07-09 12:13:07"}
+{"level":"info","message":"Forging enabled on account: 149511431321728583L","timestamp":"2019-07-09 12:13:07"}
+{"level":"info","message":"Forging enabled on account: 12182931087915228710L","timestamp":"2019-07-09 12:13:07"}
+{"level":"info","message":"Forging enabled on account: 14813132697954230246L","timestamp":"2019-07-09 12:13:07"}
+{"level":"info","message":"Forging enabled on account: 5725731609831048148L","timestamp":"2019-07-09 12:13:07"}
+{"level":"info","message":"Forging enabled on account: 14413300266590144658L","timestamp":"2019-07-09 12:13:07"}
+{"level":"info","message":"Forging enabled on account: 7132533657570267380L","timestamp":"2019-07-09 12:13:07"}
+{"level":"info","message":"Forging enabled on account: 13750980333987492302L","timestamp":"2019-07-09 12:13:07"}
+{"level":"info","message":"Forging enabled on account: 7592742892271701181L","timestamp":"2019-07-09 12:13:07"}
+{"level":"info","message":"Forging enabled on account: 10072971354410632937L","timestamp":"2019-07-09 12:13:07"}
+{"level":"info","message":"Forging enabled on account: 15399185563020312727L","timestamp":"2019-07-09 12:13:07"}
+{"level":"info","message":"Forging enabled on account: 13414549311674453649L","timestamp":"2019-07-09 12:13:07"}
+{"level":"info","message":"Forging enabled on account: 4460282230112138874L","timestamp":"2019-07-09 12:13:07"}
+{"level":"info","message":"Forging enabled on account: 6289278868838355161L","timestamp":"2019-07-09 12:13:07"}
+{"level":"info","message":"Forging enabled on account: 16558944395152994689L","timestamp":"2019-07-09 12:13:07"}
+{"level":"info","message":"Forging enabled on account: 11480779083353124300L","timestamp":"2019-07-09 12:13:07"}
+{"level":"info","message":"Forging enabled on account: 3026179612643010275L","timestamp":"2019-07-09 12:13:07"}
+{"level":"info","message":"Forging enabled on account: 17118125613381243608L","timestamp":"2019-07-09 12:13:07"}
+{"level":"info","message":"Forging enabled on account: 17496787765464665528L","timestamp":"2019-07-09 12:13:07"}
+{"level":"info","message":"Forging enabled on account: 12084736217834235496L","timestamp":"2019-07-09 12:13:07"}
+{"level":"info","message":"Forging enabled on account: 9333319370928580482L","timestamp":"2019-07-09 12:13:07"}
+{"level":"info","message":"Forging enabled on account: 7955064758773434950L","timestamp":"2019-07-09 12:13:07"}
+{"level":"info","message":"Forging enabled on account: 1714762717339455402L","timestamp":"2019-07-09 12:13:07"}
+{"level":"info","message":"Forging enabled on account: 9922703406758610919L","timestamp":"2019-07-09 12:13:07"}
+{"level":"info","message":"Forging enabled on account: 3051346193551882134L","timestamp":"2019-07-09 12:13:07"}
+{"level":"info","message":"Forging enabled on account: 4636381885822059768L","timestamp":"2019-07-09 12:13:07"}
+{"level":"info","message":"Forging enabled on account: 15193230873533971622L","timestamp":"2019-07-09 12:13:07"}
+{"level":"info","message":"Forging enabled on account: 13241516766799719015L","timestamp":"2019-07-09 12:13:07"}
+{"level":"info","message":"Forging enabled on account: 16276861156283291018L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 11424555284650165074L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 3221090182012218258L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 896907443523523140L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 9798058880326815544L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 15120572120678329947L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 1982682947399313253L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 13688765976256334777L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 11731800471139400518L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 3194475796487781931L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 9991676834064864442L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 4873193257094759693L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 15536827207177865096L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 8165886046272234138L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 12325340106679953821L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 4630687294588933614L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 2502480490592017806L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 1654034800162208703L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 17731649894811525966L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 5638924176717461484L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 5946949855171272396L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 18175732902140419061L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 5671248097748940278L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 16538830710090024174L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 14941096664585456182L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 18312875896568848473L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 12213982333421331426L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 2569812613738304830L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 2278907929586768943L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 5716662238381922086L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 5139976886998697404L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 13365353000994251365L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 8564010342590026773L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 5032012674829277888L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 10717849159655683056L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 459589282859564209L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 17960246558704250788L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 11961755447672625798L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 13815192108658196395L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 1976889550917696556L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 9362208285740961110L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 8426119307204572326L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 15104957088786547081L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 3877155860842361149L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 10535625180462796431L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 14862141341143010333L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 2480479560982538484L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 15015191105633089482L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 8137087674503128211L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 13007244586124476746L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 8285561074421408469L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 10024405119261174996L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 5177145328279559550L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 2483585844934909758L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 11867183230797701027L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 782615892322024465L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 5942706199781916513L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 18236818477903421064L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 17047173986577440748L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 1522300156347348886L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 11043010160980931613L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 5296370656327754971L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 8430142721610975484L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 617840749449687374L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 14267678202788672790L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 16114172581655316076L","timestamp":"2019-07-09 12:13:08"}
+{"level":"info","message":"Forging enabled on account: 14785000583456536533L","timestamp":"2019-07-09 12:13:08"}
+{"level":"error","message":"Failed to get block slot data","timestamp":"2019-07-09 12:13:08","data":"Error: TypeError: ed25519.verify: Signature buffer too small."}
+{"level":"error","message":"Failed to get block slot data","timestamp":"2019-07-09 12:13:09","data":"Error: TypeError: ed25519.verify: Signature buffer too small."}
+{"level":"error","message":"Failed to get block slot data","timestamp":"2019-07-09 12:13:10","data":"Error: TypeError: ed25519.verify: Signature buffer too small."}
+{"level":"error","message":"Failed to get block slot data","timestamp":"2019-07-09 12:13:11","data":"Error: TypeError: ed25519.verify: Signature buffer too small."}
+{"level":"error","message":"Failed to get block slot data","timestamp":"2019-07-09 12:13:12","data":"Error: TypeError: ed25519.verify: Signature buffer too small."}
+{"level":"info","message":"Cleaning up...","timestamp":"2019-07-09 12:13:12"}
