@@ -88,7 +88,7 @@
     "grunt-contrib-jshint": "^0.11.3",
     "grunt-exec": "^0.4.6",
     "grunt-obfuscator": "^0.1.0",
-    "lodash": "^3.9.3",
+    "lodash": "^4.17.13",
     "mocha": "^2.2.5",
     "moment": "^2.9.0",
     "should": "~4.6.0",
