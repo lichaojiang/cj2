@@ -69,7 +69,7 @@
     "usage": "^0.7.1",
     "util-extend": "*",
     "valid-url": "^1.0.9",
-    "validator": "^4.0.6",
+    "validator": "^13.7.0",
     "validator.js": "^1.2.2",
     "z-schema": "https://github.com/Ebookcoin/z-schema/tarball/master"
   },
